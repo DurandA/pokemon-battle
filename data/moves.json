@@ -7103,6 +7103,18 @@
     "effect": 5,
     "effect_chance": 30
   },
+  "593": {
+    "id": 593,
+    "name": "Hyperspace Hole",
+    "type": 14,
+    "power": 80,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special",
+    "effect": 10007,
+    "effect_chance": 0
+  },
   "594": {
     "id": 594,
     "name": "Water Shuriken",
@@ -7247,6 +7259,30 @@
     "effect": 1,
     "effect_chance": 0
   },
+  "606": {
+    "id": 606,
+    "name": "Celebrate",
+    "type": 1,
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "non-damaging",
+    "effect": 10007,
+    "effect_chance": 0
+  },
+  "607": {
+    "id": 607,
+    "name": "Hold Hands",
+    "type": 1,
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "non-damaging",
+    "effect": 10007,
+    "effect_chance": 0
+  },
   "608": {
     "id": 608,
     "name": "Baby-Doll Eyes",
@@ -7317,6 +7353,30 @@
     "priority": 0,
     "damage_class": "special",
     "effect": 353,
+    "effect_chance": 0
+  },
+  "614": {
+    "id": 614,
+    "name": "Thousand Arrows",
+    "type": 5,
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical",
+    "effect": 10007,
+    "effect_chance": 100
+  },
+  "615": {
+    "id": 615,
+    "name": "Thousand Waves",
+    "type": 5,
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical",
+    "effect": 10007,
     "effect_chance": 0
   },
   "616": {
